@@ -28,13 +28,16 @@
   <br>
   <br>
 
-<p>This project was made to understand how the architecture of a staking protocol works, the code of the main contract of our project is in `src/contracts/TokenFarm.sol`, how the tokens of the project are managed.</p>
+This project was made to understand how the architecture of a staking protocol works, the code of the main contract of our project is in ` src/contracts/TokenFarm.sol `, how the tokens of the project are managed.
 
-<p>You can also see how the `ELLA` reward token and the `TCH` staking token were designed.</p>
+You can also see how the `ELLA` reward token and the `TECH` staking token were designed.
 
-<p>All the UI design that was done with React, you can find it in `src/components`.</p>
+All the UI design that was done with React, you can find it in `src/components`.
 
-<p>It was challenging and fun to do this project, if you want to understand how the most famous staking protocols work in web3, this project will help you in a basic but functional aspect.</p>
+It was challenging and fun to do this project, if you want to understand how the most famous staking protocols work in web3, this project will help you in a basic but functional aspect.
+
+To test the project you only need to have your Metamask wallet with fake BNB that you can find <a href="https://testnet.bnbchain.org/faucet-smart">here</a>.
+
 
 <h2> Installing / Getting started </h2>
 
