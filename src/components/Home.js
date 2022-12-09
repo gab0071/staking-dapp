@@ -187,7 +187,7 @@ class App extends Component {
                                 </h5>
                                 <a
                                     className="App-link"
-                                    href="https://github.com/gab0071"
+                                    href="https://github.com/gab0071/solidity-fundamentals"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
